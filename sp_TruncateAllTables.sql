@@ -1,3 +1,5 @@
+--Source: https://www.mssqltips.com/sqlservertip/3218/truncate-all-tables-in-a-sql-server-database/
+
 USE [YourDatabaseName]
 
 /* TRUNCATE ALL TABLES IN A DATABASE */
