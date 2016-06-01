@@ -1,3 +1,5 @@
+USE [YourDatabaseName]
+
 /* TRUNCATE ALL TABLES IN A DATABASE */
 DECLARE @dropAndCreateConstraintsTable TABLE
         (
