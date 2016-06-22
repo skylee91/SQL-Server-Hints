@@ -6,7 +6,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-ALTER PROC [dbo].[SearchAllTables] 
+CREATE PROC [dbo].[SearchAllTables] 
 (
 @SearchStr nvarchar(100)
 )
