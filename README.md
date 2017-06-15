@@ -6,3 +6,5 @@ Summary of the useful of SQL Server T-SQL scripts
 3. [Delete all tables] (./sp_DeleteAllTables.sql) 
 4. [Search all columns by string] (./sp_SearchAllColums.sql) 
 5. [Search all stored procedures] (./sp_SearchAllStoredProcedure.sql)
+6. [Restore database with new name](./sq_RestoreDBWithNewName.sql)
+
