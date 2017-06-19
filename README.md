@@ -8,4 +8,6 @@ Summary of the useful of SQL Server T-SQL scripts
 5. [Search column name by string](./sp_SearchColumnName.sql) 
 6. [Search all stored procedures](./sp_SearchAllStoredProcedure.sql)
 7. [Restore database with new name](./sq_RestoreDBWithNewName.sql)
+8. [Copy Database Diagram](./CopyDatabaseDiagram.sql)
+
 
